@@ -54,4 +54,4 @@ The "Pets Website Frontend Design using Bootstrap" repository is open-source and
 ![Landing page](website-images/mobvisual3.png)
 ![Landing page](website-images/mobvisual4.png)
 ![Landing page](website-images/mobvisual5.png)
-![Landing page](website-images/mobvisual6.png)![Landing page](website-images/mobvisual7.png)
+![Landing page](website-images/mobvisual6.png)![Landing page](website-images/mobvisual7.png)![Landing page](website-images/mobvisual8.png)
