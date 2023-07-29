@@ -1,0 +1,171 @@
+[
+    {
+        "id": 1,
+        "title": "brown sweater",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 300.00,
+        "image": "./assets/images/product1.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 2,
+        "title": "brown shirt",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 250.00,
+        "image": "./assets/images/product2.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 3,
+        "title": "black hoodie",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 175.5,
+        "image": "./assets/images/product3.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 4,
+        "title": "neck scarf",
+        "trendTitle": "Neck scarf for men",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 80.99,
+        "image": "./assets/images/product4.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 5,
+        "title": "grey cap",
+        "trendTitle": "Gray P-cap for men",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 19.99,
+        "image": "./assets/images/product5.png",
+        "isNew": false,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 6,
+        "title": "blue jordans",
+        "trendTitle": "Blue jordan shoe",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 179.99,
+        "image": "./assets/images/product6.png",
+        "isNew": true,
+        "isTrending": true,
+        "category": "men"
+    },
+    {
+        "id": 7,
+        "title": "black oversized t-shirt",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 79.99,
+        "image": "./assets/images/product7.png",
+        "isNew": false,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 8,
+        "title": "louis vuitton purse",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 939.99,
+        "image": "./assets/images/product8.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 9,
+        "title": "sports wear jacket",
+        "trendTitle": "best trending in sportswear",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 145.0,
+        "image": "./assets/images/product9.png",
+        "isNew": false,
+        "isTrending": true,
+        "category": "men"
+    },
+    {
+        "id": 10,
+        "title": "girl outfit",
+        "trendTitle": "most popular outfit",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 839.99,
+        "image": "./assets/images/product10.png",
+        "isNew": false,
+        "isTrending": true,
+        "category": "women"
+    },
+    {
+        "id": 11,
+        "title": "men officewear",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 199.99,
+        "image": "./assets/images/product11.png",
+        "isNew": false,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 15,
+        "title": "wool sweater for women",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 900.0,
+        "image": "./assets/images/product15.png",
+        "image2": "./assets/images/product15.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 12,
+        "title": "sports wear jacket",
+        "trendTitle": "unique awesome sportswear",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 499.99,
+        "image": "./assets/images/product12.png",
+        "image2": "./assets/images/product12-2.png",
+        "isNew": true,
+        "isTrending": true,
+        "category": "women"
+    },
+    {
+        "id": 13,
+        "title": "women coat and pants",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 1199.99,
+        "image": "./assets/images/product13.png",
+        "image2": "./assets/images/product13-2.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 14,
+        "title": "fully jeans outfit",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Introducing our best-selling and highly popular product - a true epitome of elegance and exquisite design. We urge you to make a swift decision and secure yours before it flies off the shelves. Don't miss the chance to own this stunning piece that has captured the hearts of many. With its timeless beauty, it's sure to elevate your style and become a cherished addition to your collection. Act now, as stocks are limited, and this coveted product is selling fast. Don't wait for regrets; make it yours today and revel in the allure of its unmatched charm.",
+        "price": 300.0,
+        "image": "./assets/images/product14.png",
+        "image2": "./assets/images/product14-2.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    }
+]
